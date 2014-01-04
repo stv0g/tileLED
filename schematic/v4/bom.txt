@@ -1,0 +1,8 @@
+ATmega32u4	QFN44				ok
+NRF8001		QFN32				ok
+
+micro USB					ok
+3.0 V LDO VR					ok
+16 Mhz Quarz / Oszillator
+
+
